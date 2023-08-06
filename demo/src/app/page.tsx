@@ -23,7 +23,7 @@ export default function Home() {
             <Card />
           </div>
         </div>
-        <div className="absolute top-1  sm:left-1/3">
+        <div className="absolute top-full  sm:left-1/3">
           <ListCard />
         </div>
       </div>
