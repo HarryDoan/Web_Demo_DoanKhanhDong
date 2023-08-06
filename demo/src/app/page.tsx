@@ -23,7 +23,7 @@ export default function Home() {
             <Card />
           </div>
         </div>
-        <div className="absolute top-3/4   sm:left-1/3">
+        <div className="absolute top-3/4 mt-20 sm:left-1/3">
           <ListCard />
         </div>
       </div>
